@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Strona główna -->
+  <url>
+    <loc>https://bydlo-trans.pl/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- O Nas -->
+  <url>
+    <loc>https://bydlo-trans.pl/o-nas</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Oferta: Skup bydła -->
+  <url>
+    <loc>https://bydlo-trans.pl/oferta/skup-bydla</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Oferta: Sprzedaż bydła -->
+  <url>
+    <loc>https://bydlo-trans.pl/oferta/sprzedaz-bydla</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Oferta: Transport bydła -->
+  <url>
+    <loc>https://bydlo-trans.pl/oferta/transport-bydla</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Kontakt -->
+  <url>
+    <loc>https://bydlo-trans.pl/kontakt</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Strony regionalne — skup bydła -->
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-zachodniopomorskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-pomorskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-wielkopolskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-lubuskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Strony regionalne — skup bydła pourazowego -->
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-pourazowego-zachodniopomorskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-pourazowego-pomorskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-pourazowego-wielkopolskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://bydlo-trans.pl/skup-bydla-pourazowego-lubuskie</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Polityka prywatności -->
+  <url>
+    <loc>https://bydlo-trans.pl/polityka-prywatnosci</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
